@@ -32,5 +32,5 @@ The deployment steps of Project are as follows :-
 
 [Task1 and Task2 Video](https://drive.google.com/drive/folders/1BOUGJ5jWEJigb0wg_MsTqH-kjJCAkecW?usp=sharing)
 
-[Task 2](https://bless20.pythonanywhere.com/)
+
 
